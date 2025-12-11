@@ -1,13 +1,18 @@
 {
-  "name": "usuarios",
+  "name": "enderecos-api",
   "version": "1.0.0",
+  "description": "API REST para gerenciamento de endereços",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "api",
+    "rest",
+    "express"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
